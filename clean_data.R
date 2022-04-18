@@ -1,7 +1,7 @@
 ##Data Preprocessing 
 
 #Importing dataset
-dataset = read.csv('data/Telco-Customer-Churn.csv')
+dataset = read.csv('Telco-Customer-Churn.csv')
 
 # Setting "No" values 
 library(plyr)
