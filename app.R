@@ -5,7 +5,7 @@ library(gridExtra)
 library(grid)
 library(ggplot2)
 
-source("data/clean_data.R")
+source("clean_data.R")
 
 gender_options <- c("No Filter", "Female", "Male")
 senior_options <- c("No Filter", "is Senior Citizen", "is not Senior Citizen")
